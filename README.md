@@ -1,16 +1,12 @@
-### Hi there 👋
+### Welcome to my GitHub Profile
 
-<!--
-**Rohaq/Rohaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Interests
+Occasionally you'll see me trying to add/fix stuff:
+* Gaming - Both playing, and working on modding tools
+* Home automation integrations
+* Chrome Extensions
+* Bouncing around wherever my brain takes me.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Socials
+* <a rel="me" href="https://mas.to/@rohaq">Mastodon</a>
+* <a href="https://twitter.com/rohaq">Twitter</a>
